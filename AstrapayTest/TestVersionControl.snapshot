@@ -479,6 +479,32 @@
           } ],
           "remoteProcessGroups" : [ ],
           "variables" : { }
+        }, {
+          "comments" : "",
+          "componentType" : "PROCESS_GROUP",
+          "connections" : [ ],
+          "controllerServices" : [ ],
+          "defaultBackPressureDataSizeThreshold" : "1 GB",
+          "defaultBackPressureObjectThreshold" : 10000,
+          "defaultFlowFileExpiration" : "0 sec",
+          "flowFileConcurrency" : "UNBOUNDED",
+          "flowFileOutboundPolicy" : "STREAM_WHEN_AVAILABLE",
+          "funnels" : [ ],
+          "groupIdentifier" : "d3df0b33-66d9-3764-b716-cf1b89e81b59",
+          "identifier" : "e6a6c6ba-af5d-3889-a5eb-43158b51f983",
+          "inputPorts" : [ ],
+          "instanceIdentifier" : "ecfc9dcf-0185-1000-b111-f70be60b5ca7",
+          "labels" : [ ],
+          "name" : "Incremental Load",
+          "outputPorts" : [ ],
+          "position" : {
+            "x" : 744.0,
+            "y" : 280.0
+          },
+          "processGroups" : [ ],
+          "processors" : [ ],
+          "remoteProcessGroups" : [ ],
+          "variables" : { }
         } ],
         "processors" : [ {
           "autoTerminatedRelationships" : [ ],
