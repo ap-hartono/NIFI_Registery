@@ -1,0 +1,6 @@
+flows:
+  943cc280-c1ef-4674-bd55-dd23fdff680c: {ver: 1, file: Incremental_Load.snapshot,
+    comments: '', author: anonymous, created: 1674718142462, flowName: Incremental
+      Load, flowDesc: Menambahkan Pipeline Incremental Load}
+layoutVer: 1
+bucketId: bc18963b-fbbc-472a-a1e2-45c10871eb14
